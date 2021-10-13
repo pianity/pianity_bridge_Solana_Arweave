@@ -1,0 +1,16 @@
+{
+  "name": "bridge_arweave",
+  "version": "1.0.0",
+  "description": "Arweave side of bridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arweave": "^1.10.18",
+    "smartweave": "^0.4.45",
+    "tsc": "^2.0.3"
+  }
+}
